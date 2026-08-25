@@ -1,1 +1,0 @@
-Hello! This message is written using write() system call.
